@@ -1,7 +1,7 @@
 *SportChef Issues*
 ==================
 
-[![Stories in Ready](https://badge.waffle.io/sportchef/sportchef-issues.svg?label=ready&title=Ready)](http://waffle.io/sportchef/sportchef-issues)
+[![Stories in Ready](https://badge.waffle.io/sportchef/sportchef-issues.svg?label=ready&title=Ready)](http://waffle.io/sportchef/sportchef-issues) [![gitmoji](https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg)](https://gitmoji.carloscuesta.me)
 
 **This repository contains the issues for the *SportChef* project which can't be assigned to a specific microservice module. For more information please take a look at our [project website](https://www.sportchef.ch/).**
 
